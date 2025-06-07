@@ -1,0 +1,6 @@
+{
+    "iqm_root_url": "https://melrosecityma.iqm2.com",
+    "database_engine_uri": "sqlite:///./melrose_scraped_resolutions.db",
+    "resolution_range": [12000, 11900, -1],
+    "include_body": true
+}
