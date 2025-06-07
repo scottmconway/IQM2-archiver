@@ -22,4 +22,4 @@ See `config.json.example` for an example config.
 ### Limitations
 IQM2 is _full_ of custom fields and inconsistent rendering of information. This script has been tested on a number of IQM2 instances with varying configurations, but issues due to the use of custom fields may arise nonetheless. Please open an issue if you have issues on a given IQM2 instance.
 
-All known current limitations can be found [here](https://github.com/scottmconway/iqm2_archiver/issues?q=is%3Aopen%20label%3Alimitation).
+All known current limitations can be found [here](https://github.com/scottmconway/IQM2-archiver/issues?q=is%3Aopen%20label%3Alimitation).
